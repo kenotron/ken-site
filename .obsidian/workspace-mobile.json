@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Some Test.md",
+                "file": "content/Some Test.md",
                 "mode": "source",
                 "source": false
               },
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Some Test.md",
+            "file": "content/Some Test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Some Test.md",
+            "file": "content/Some Test.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Some Test.md",
+            "file": "content/Some Test.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -153,8 +153,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed203453b36119e6",
+  "active": "e60e949881f9fed2",
   "lastOpenFiles": [
-    "Some Test.md"
+    "content",
+    "content/Some Test.md"
   ]
 }
